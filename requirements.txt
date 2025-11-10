@@ -4,4 +4,4 @@ numpy
 openpyxl
 st-aggrid
 pywin32; platform_system == "Windows"
-pythoncom; platform_system == "Windows"
+
